@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Kosko';
+    src: url('KoskoBold-Bold.eot');
+    src: url('KoskoBold-Bold.eot?#iefix') format('embedded-opentype'),
+        url('KoskoBold-Bold.woff2') format('woff2'),
+        url('KoskoBold-Bold.woff') format('woff'),
+        url('KoskoBold-Bold.ttf') format('truetype'),
+        url('KoskoBold-Bold.svg#KoskoBold-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
